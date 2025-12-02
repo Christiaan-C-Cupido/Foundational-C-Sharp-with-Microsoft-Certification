@@ -1,2 +1,2 @@
 # Foundational-C-Sharp-with-Microsoft-Certification
-A beginner-friendly introduction to C# covering core concepts, syntax, and practical applications. Learn variables, data types, control structures, and OOP through hands-on exercises. Build confidence and gain the skills to create real C# applications.
+This repository contains my exercises and projects from the Microsoft C# foundational course, covering core concepts like variables, data types, control flow, methods, and object-oriented programming. A portfolio of my learning and progression in C#.
